@@ -263,7 +263,7 @@ export const socialMedia = [
   {
     id: 2,
     img: "/personal-profile.png", // add this icon in public folder
-    link: "/resume.pdf", // or Google Drive link
+    link: "/Portfolio resume.pdf", // or Google Drive link
   },
   {
     id: 3,
