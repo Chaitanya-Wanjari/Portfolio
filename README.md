@@ -12,7 +12,7 @@ A modern, high-performance portfolio built with **React, TypeScript, and Vite**,
 ---
 
 ## 🚀 Live Demo
-👉 [View Portfolio](https://your-vercel-link.vercel.app)
+👉 [View Portfolio](https://portfolio-steel-nine-69.vercel.app/)
 
 ---
 
