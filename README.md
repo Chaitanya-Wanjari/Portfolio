@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Personal Portfolio Website
+# Personal Portfolio Website
 
 A modern, high-performance portfolio built with **React, TypeScript, and Vite**, featuring advanced animations and an interactive UI to showcase projects and skills.
 
@@ -11,19 +11,19 @@ A modern, high-performance portfolio built with **React, TypeScript, and Vite**,
 
 ---
 
-## 🚀 Live Demo
-👉 [View Portfolio](https://portfolio-steel-nine-69.vercel.app/)
+##  Live Demo
+ [View Portfolio](https://portfolio-steel-nine-69.vercel.app/)
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This is a personal portfolio website designed to showcase my projects, skills, and experience in a visually engaging way.  
 It focuses on **performance, smooth animations, and modern UI design**.
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - ⚛️ React (Vite)
 - 🟦 TypeScript
@@ -32,14 +32,14 @@ It focuses on **performance, smooth animations, and modern UI design**.
 
 ---
 
-## ✨ Features
+##  Features
 
-- ⚡ **High-performance UI** with Vite
-- 🎬 **Advanced animations** and transitions
-- 📱 **Fully responsive design**
-- 🧩 **Reusable component architecture**
-- 🌐 **Project showcase with live/demo links**
-- 🎯 **Modern glassmorphism UI**
+-  **High-performance UI** with Vite
+-  **Advanced animations** and transitions
+-  **Fully responsive design**
+-  **Reusable component architecture**
+-  **Project showcase with live/demo links**
+-  **Modern glassmorphism UI**
 
 ---
 
@@ -51,7 +51,7 @@ It focuses on **performance, smooth animations, and modern UI design**.
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 Clone the repository:
 
